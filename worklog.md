@@ -5,3 +5,6 @@
                  -> RC1 created
                  ---
                  -> fix bug -> done
+                 -> RC2 created
+                 ---
+                 -> second bug identified
