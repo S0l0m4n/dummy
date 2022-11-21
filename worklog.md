@@ -4,4 +4,4 @@
                  -> second feature implemented -> code review x 2
                  -> RC1 created
                  ---
-                 -> fix bug... maybe now
+                 -> fix bug -> done
