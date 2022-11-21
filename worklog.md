@@ -11,3 +11,4 @@
                  -> third bugfix done
 ---
 * 1.24.0 started -> first feature implemented
+                 -> second feature testing finished
