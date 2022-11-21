@@ -1,3 +1,3 @@
 * A fancy new feature was added.
 ---
-* 1.23.0 started
+* 1.23.0 started -> some work was done...
