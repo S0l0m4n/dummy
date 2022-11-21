@@ -8,4 +8,4 @@
                  -> RC2 created
                  ---
                  -> second bug -> done
-                 -> third bugfix started
+                 -> third bugfix done
