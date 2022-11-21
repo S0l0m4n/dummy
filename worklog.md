@@ -7,4 +7,4 @@
                  -> fix bug -> done
                  -> RC2 created
                  ---
-                 -> second bug -> hopefully this fixes it...
+                 -> second bug -> done
