@@ -10,4 +10,4 @@
                  -> second bug -> done
                  -> third bugfix done
 ---
-* 1.24.0 started -> first feature implemented -> found a bug in testing
+* 1.24.0 started -> first feature implemented
