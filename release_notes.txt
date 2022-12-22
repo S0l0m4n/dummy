@@ -1,10 +1,15 @@
 RELEASE NOTES
 =============
-1.23.0 updated ...
+1.23.0 updated 12/22/22
 
 What's new:
+ - feature #1
+ - feature #2
 
 Bugs fixed:
+ - bugfix #1
+ - bugfix #2
+ - bugfix #3
 
 1.22.3 updated 09/23/22
 
