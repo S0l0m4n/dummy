@@ -10,4 +10,4 @@
                  -> second bug -> done
                  -> third bugfix done
 ---
-* 1.23.1 started
+* 1.23.1 started -> start bugfix #1
