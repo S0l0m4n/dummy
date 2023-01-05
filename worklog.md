@@ -10,5 +10,7 @@
                  -> second bug -> done
                  -> third bugfix done
 ---
+* 1.23.1 started -> fix bug #1 -> done
+---
 * 1.24.0 started -> first feature implemented
                  -> second feature testing finished
