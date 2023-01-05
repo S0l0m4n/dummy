@@ -14,4 +14,4 @@
 ---
 * 1.24.0 started -> first feature implemented
                  -> second feature testing finished
-                 -> third feature implemented and self-reviewed
+                 -> third feature implemented code reviewed
