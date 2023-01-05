@@ -9,3 +9,5 @@
                  ---
                  -> second bug -> done
                  -> third bugfix done
+---
+* 1.23.1 started
